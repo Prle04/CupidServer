@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E416558-3674-4275-9D32-EE9777C4E1AE}|CupidServer\\CupidServer.csproj|c:\\users\\victus\\desktop\\faks luka\\iii godina\\vi semestar\\snus\\cupidserver\\cupidserver\\hubs\\cupidhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E416558-3674-4275-9D32-EE9777C4E1AE}|CupidServer\\CupidServer.csproj|solutionrelative:cupidserver\\hubs\\cupidhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E416558-3674-4275-9D32-EE9777C4E1AE}|CupidServer\\CupidServer.csproj|c:\\users\\victus\\desktop\\faks luka\\iii godina\\vi semestar\\snus\\cupidserver\\cupidserver\\services\\cupidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E416558-3674-4275-9D32-EE9777C4E1AE}|CupidServer\\CupidServer.csproj|solutionrelative:cupidserver\\services\\cupidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D970D-68A3-4FBF-8565-DE4AE5AC549C}|PersonConsoleClient\\PersonConsoleClient.csproj|c:\\users\\victus\\desktop\\faks luka\\iii godina\\vi semestar\\snus\\cupidserver\\personconsoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886D970D-68A3-4FBF-8565-DE4AE5AC549C}|PersonConsoleClient\\PersonConsoleClient.csproj|solutionrelative:personconsoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E416558-3674-4275-9D32-EE9777C4E1AE}|CupidServer\\CupidServer.csproj|c:\\users\\victus\\desktop\\faks luka\\iii godina\\vi semestar\\snus\\cupidserver\\cupidserver\\services\\cupidbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E416558-3674-4275-9D32-EE9777C4E1AE}|CupidServer\\CupidServer.csproj|solutionrelative:cupidserver\\services\\cupidbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E416558-3674-4275-9D32-EE9777C4E1AE}|CupidServer\\CupidServer.csproj|c:\\users\\victus\\desktop\\faks luka\\iii godina\\vi semestar\\snus\\cupidserver\\cupidserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E416558-3674-4275-9D32-EE9777C4E1AE}|CupidServer\\CupidServer.csproj|solutionrelative:cupidserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D970D-68A3-4FBF-8565-DE4AE5AC549C}|PersonConsoleClient\\PersonConsoleClient.csproj|c:\\users\\victus\\desktop\\faks luka\\iii godina\\vi semestar\\snus\\cupidserver\\personconsoleclient\\personconsoleclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{886D970D-68A3-4FBF-8565-DE4AE5AC549C}|PersonConsoleClient\\PersonConsoleClient.csproj|solutionrelative:personconsoleclient\\personconsoleclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E416558-3674-4275-9D32-EE9777C4E1AE}|CupidServer\\CupidServer.csproj|c:\\users\\victus\\desktop\\faks luka\\iii godina\\vi semestar\\snus\\cupidserver\\cupidserver\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E416558-3674-4275-9D32-EE9777C4E1AE}|CupidServer\\CupidServer.csproj|solutionrelative:cupidserver\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b015bca8-f686-4aaf-a093-5d028dbdb089}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CupidHub.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\CupidServer\\Hubs\\CupidHub.cs",
+              "RelativeDocumentMoniker": "CupidServer\\Hubs\\CupidHub.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\CupidServer\\Hubs\\CupidHub.cs",
+              "RelativeToolTip": "CupidServer\\Hubs\\CupidHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:19:16.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonConsoleClient.csproj",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\PersonConsoleClient\\PersonConsoleClient.csproj",
+              "RelativeDocumentMoniker": "PersonConsoleClient\\PersonConsoleClient.csproj",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\PersonConsoleClient\\PersonConsoleClient.csproj",
+              "RelativeToolTip": "PersonConsoleClient\\PersonConsoleClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-28T13:55:23.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\CupidServer\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "CupidServer\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\CupidServer\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "CupidServer\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:48:49.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CupidBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\CupidServer\\Services\\CupidBackgroundService.cs",
+              "RelativeDocumentMoniker": "CupidServer\\Services\\CupidBackgroundService.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\CupidServer\\Services\\CupidBackgroundService.cs",
+              "RelativeToolTip": "CupidServer\\Services\\CupidBackgroundService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:30:20.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\CupidServer\\Program.cs",
+              "RelativeDocumentMoniker": "CupidServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\CupidServer\\Program.cs",
+              "RelativeToolTip": "CupidServer\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:27:54.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CupidService.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\CupidServer\\Services\\CupidService.cs",
+              "RelativeDocumentMoniker": "CupidServer\\Services\\CupidService.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\CupidServer\\Services\\CupidService.cs",
+              "RelativeToolTip": "CupidServer\\Services\\CupidService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAA3wEkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:27:35.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\PersonConsoleClient\\Program.cs",
+              "RelativeDocumentMoniker": "PersonConsoleClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\FAKS LUKA\\III godina\\VI semestar\\SNUS\\CupidServer\\PersonConsoleClient\\Program.cs",
+              "RelativeToolTip": "PersonConsoleClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:08:52.194Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
